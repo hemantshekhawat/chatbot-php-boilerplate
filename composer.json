@@ -1,4 +1,21 @@
 {
+    "name": "hemantshekhawat/chatbot-php",
+    "description": "a php based integration of faceboot messenger chatbots",
+    "type": "library",
+    "require": {
+        "iboldurev/api-ai-php": "^0.2.2",
+        "monolog/monolog": "^1.21",
+        "vlucas/phpdotenv": "^2.3",
+        "phpunit/phpunit": "^5.5",
+        "tgallice/wit-php": "^0.3.1"
+    },
+    "authors": [
+        {
+            "name": "Hemant Shekhawat",
+            "email": "hemantshekhawat@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
         "iboldurev/api-ai-php": "^0.2.2",
         "monolog/monolog": "^1.21",
